@@ -1,0 +1,10 @@
+---
+name: hello world test
+description: hello world test description
+keywords: ''
+type: Default
+documentation: hello world test documentation
+images:
+- name: tutum_hello-world_latest
+  source: tutum/hello-world:latest
+  type: Default
